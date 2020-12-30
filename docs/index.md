@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+Thomas CARPENTIER 4A-UFA-42
+# E-portfolio
+Ce dépôt concentrera toutes les ressources utilisées pour la création de mon e-portfolio. Pour le moment, il y présente seulement une ébauche du site que je vais m'apprêter à créer. Je suis en train de m'autoformer au framework de programmation web Angular, je m'aiderai de cette technologie pour créer mon site.
 
-You can use the [editor on GitHub](https://github.com/Weaxell/e_portfolio/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+**Note sur le format du rendu :** Je souhaite pour le moment effectuer ce rendu de Retour d'expérience sous la forme d'un site web, mais je suis en réflexion sur le format du rendu et j'en changerai peut être d'ici la date de rendu final.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Le site web se découpera en plusieurs pages de présentation, et on pourra imaginer que chacune d'entre elles fera l'objet d'un bloc dans une barre de navigation, en haut de la page.
 
-### Markdown
+Ces pages principales seront donc :
+ - **Accueil**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ce sera la première page du site. Elle présentera brièvement le but du site lui-même, et présentera également les autres pages.
 
-```markdown
-Syntax highlighted code block
+ - **Formation**
 
-# Header 1
-## Header 2
-### Header 3
+Cette page consistera en une liste de toutes mes formations à l'heure actuelle, l'ESIEA étant donc le dernier échelon de cette liste, et le plus détaillé.
 
-- Bulleted
-- List
+ - **Compétences**
 
-1. Numbered
-2. List
+Je parlerai ici de mes compétences techniques : les technologies, les outils que je maîtrise mais aussi mes *soft skills*.
 
-**Bold** and _Italic_ and `Code` text
+ - **Alternance**
 
-[Link](url) and ![Image](src)
-```
+Je présenterai sur cette page mon entreprise d'accueil, en détaillant de nombreux points : structure organisationnelle, gouvernance, mes tâches au sein de l'entreprise, etc.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ - **Projets perso**
 
-### Jekyll Themes
+Sur la page "Alternance" je présenterai donc les tâches et les projets sur lesquels j'aurais eu l'occasion de travailler pendant mon travail. Mais je souhaite aussi mettre en valeur les projets que j'ai fait à titre personnel, qui résultent souvent de mes hobbies ou bien de besoins simples personnels.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Weaxell/e_portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ - **Contact**
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Enfin, par convention, la plupart des sites internet de type blog comportent un formulaire de contact, je ne compte pas déroger à la règle et en créer une, cela pourra sûrement m'être utile par la suite.
